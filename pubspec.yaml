@@ -1,5 +1,5 @@
 name: flutter_bloc_pagination
-description: "A new Flutter package project."
+description: A simple and flexible pagination controller for Flutter BLoC, allowing page-by-page data loading, refresh, and easy integration with BlocBuilder.
 version: 0.0.1
 
 environment:
