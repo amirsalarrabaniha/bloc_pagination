@@ -1,4 +1,4 @@
-library bloc_pagination;
+library flutter_bloc_pagination;
 
 import 'package:flutter_bloc_pagination/helpers/grid_helpers.dart';
 import 'package:flutter/material.dart';
