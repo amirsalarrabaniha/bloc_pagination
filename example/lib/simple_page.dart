@@ -1,4 +1,4 @@
-import 'package:bloc_pagination/bloc_pagination.dart';
+import 'package:flutter_bloc_pagination/bloc_pagination.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

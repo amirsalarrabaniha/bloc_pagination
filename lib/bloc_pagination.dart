@@ -1,6 +1,6 @@
 library bloc_pagination;
 
-import 'package:bloc_pagination/helpers/grid_helpers.dart';
+import 'package:flutter_bloc_pagination/helpers/grid_helpers.dart';
 import 'package:flutter/material.dart';
 
 typedef Widget ItemBuilder<T>(BuildContext context, T entry, int index);

@@ -1,4 +1,4 @@
-# bloc\_pagination
+# flutter_bloc_pagination
 
 A **simple and flexible pagination controller** for Flutter BLoC.
 Easily load pages, refresh items, and integrate with your BLoC architecture using a controller-based approach.
